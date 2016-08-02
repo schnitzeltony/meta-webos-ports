@@ -9,6 +9,3 @@ EXTRA_OECONF += " \
 
 FILESEXTRAPATHS_prepend := "${THISDIR}/${PN}:"
 
-SRC_URI += "\
-    file://ICQ-pw-length.patch \
-"
